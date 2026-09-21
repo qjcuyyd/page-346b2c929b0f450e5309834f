@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fd3afcdf4480191617c75920",
+  "owner": "qjcuyyd",
+  "repo": "page-346b2c929b0f450e5309834f",
+  "title": "Ngcloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "346b2c929b0f450e5309834f",
+      "a": "Ngcloud",
+      "b": "稳定全球clash加速器",
+      "entity": "Ngcloud",
+      "brand": "Ngcloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dd9736d05d7929ac338623078b4139f993e92e2f0ae284daa04c0c6b20d61f37",
+      "content": {
+        "primary_entity": "Ngcloud",
+        "keyword1": "Ngcloud",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按 Windows、macOS、Android、iOS 或路由器选择对应客户端，参照客户端文档填入订阅地址即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和月流量选好套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "挑对套餐，连上全球节点",
+          "AI_DESCRIPTION": "，面向需要稳定全球网络连接的用户，提供按流量与设备数划分的多档订阅套餐。基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。在 Windows、macOS、Android、iOS 及路由器上均可按客户端文档导入订阅，节点池与专线资源随套餐档位区分，按月或按年付费灵活选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数量到节点类型，三档套餐覆盖不同使用规模。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备，按需匹配。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速与全节点流媒体解锁，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按月或按年付费，年付价格分别为 ¥150、¥350 与 ¥850，长期使用更省预算。",
+          "AI_FEATURE_TITLE_1": "流量与设备梯度",
+          "AI_FEATURE_TITLE_2": "节点与专线差异",
+          "AI_FEATURE_TITLE_3": "月付年付灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅，三步理清配置流程。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "Ngcloud 提供按流量和设备数分档的网络加速订阅，用户可根据日常使用规模选择基础版、旗舰版或团队版，并在常用客户端中导入订阅地址开始使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配各类设备",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "月付年付可选，年付更省预算",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版适合流媒体与游戏，团队版面向多设备协作。对比流量、设备数与节点权益后选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与节点权益，确认操作系统是否在客户端支持范围内。",
+          "AI_STEP_TEXT_3": "安装对应客户端后，依照客户端文档填入订阅地址，完成节点导入与连接。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "Ngcloud 全球加速订阅",
+          "AI_FAQ_TITLE": "Ngcloud 常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Ngcloud 有哪些套餐可以选择？",
+          "AI_FAQ_ANSWER_1": "共有基础版、旗舰版和团队版三档。基础版月付 ¥15，旗舰版月付 ¥35，团队版月付 ¥85，年付分别为 ¥150、¥350 和 ¥850，按所需流量与设备数量选择即可。",
+          "AI_FAQ_QUESTION_2": "一个 Ngcloud 订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版最多支持 20 台。如果多人共用或设备较多，建议选择团队版。",
+          "AI_FAQ_QUESTION_3": "Ngcloud 订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "先根据设备系统选择对应客户端，再参照该客户端的配置文档导入订阅信息，完成后即可连接。不同客户端界面略有差异，以客户端文档为准。",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量提升至每月 300GB，设备数增至 5 台，并提供全节点原生流媒体解锁、IPLC 专线游戏加速优化以及 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_5": "Ngcloud 按年付能省多少？",
+          "AI_FAQ_ANSWER_5": "基础版年付 ¥150，相当于每月约 ¥12.5；旗舰版年付 ¥350，每月约 ¥29；团队版年付 ¥850，每月约 ¥70。相比月付可降低整体支出。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xiangtanai.cn",
+    "host": "xiangtanai.cn"
+  },
+  "file_hashes": {
+    "index.html": "e42752eafdc42cbf102b953e68ce393ada56317908977f9cfe1cee1b77db2522",
+    "sitemap.xml": "d776c656fe9ab1fc54ee76edef7a2f940fc0a6dbbe51a6e5e233a38dd48474be",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "05f18696c21273bbfad0773c9f4893bbd11d88d0199e9e46e6aa9b28356408a1",
+    "robots.txt": "3d45848196e58c60f3d837f6e553dc9ffd68d0b8e8ec7b511cc986cec55d285b",
+    "f6578f17e689ab82be2248ed73a7073e.txt": "8f5308a30250d63843b5e73c5f8ebc2ef17354e32770b9232d3f897fe2e6399c"
+  },
+  "revision": "9056e5644c6328224933643d9fda94f52a4fd590014d3c8952acbf21efd075cf"
+}
